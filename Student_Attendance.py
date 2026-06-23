@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/16cW-nYd195o4uh86hNms-YORSJygXrQC
 """
 
-# Restaurant Ordering System
-# SIF015 - Computer Science Assignment
-# Option A
-
 # This list stores all orders
 orders = []
 
